@@ -1,11 +1,11 @@
 <!-- Animated Banner -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:0066ff&height=200&section=header&text=MN-TG%20Developer&fontSize=40&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:0066ff&height=200&section=header&text=Musammil%20N&fontSize=40&fontColor=ffffff"/>
 </p>
 
 <!-- Profile Views -->
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=mntgxo&label=Profile%20views&color=129e00&style=plastic"/>
+<img src="https://komarev.com/ghpvc/?username=mallu-musa&label=Profile%20views&color=129e00&style=plastic"/>
 </p>
 
 ---
@@ -39,11 +39,11 @@ I build **Telegram bots, automation tools, and backend systems**.
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mntgxo&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mallu-musa&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/>
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mntgxo&layout=compact&langs_count=12&theme=dark"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mallu-musa&layout=compact&langs_count=12&theme=dark"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mntgxo&hide_border&include_all_commits=true&count_private=true=true&theme=dark"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mallu-musa&hide_border&include_all_commits=true&count_private=true=true&theme=dark"/>
 
 </p>
 
@@ -52,7 +52,7 @@ I build **Telegram bots, automation tools, and backend systems**.
 # 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mntgxo&theme=github-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mallu-musa&theme=github-dark"/>
 </p>
 
 ---
@@ -61,8 +61,8 @@ I build **Telegram bots, automation tools, and backend systems**.
 
 <p align="center">
 
-<img src="https://img.shields.io/github/followers/mntgxo?style=for-the-badge"/>
-<img src="https://komarev.com/ghpvc/?username=mntgxo&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/mallu-musa?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=mallu-musa&style=for-the-badge"/>
 
 </p>
 
@@ -71,7 +71,7 @@ I build **Telegram bots, automation tools, and backend systems**.
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/mntgxo/mntgxo/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/mallu-musa/mallu-musa/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
