@@ -5,7 +5,7 @@
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mntgxo&label=Profile%20views&color=129e00&style=plastic" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=mallu-musa&label=Profile%20views&color=129e00&style=plastic" alt="Profile views"/>
 </p>
 
 ---
@@ -38,9 +38,9 @@ I build **Telegram bots, automation tools, and backend systems**.
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MNTGXO/MNTGXO/refs/heads/main/github-metrics-stats.svg?v=1" alt="GitHub stats"/>
+  <img src="https://raw.githubusercontent.com/mallu-musa/mallu-musa/refs/heads/main/github-metrics-stats.svg?v=1" alt="GitHub stats"/>
   <br><br>
-  <img src="https://raw.githubusercontent.com/MNTGXO/MNTGXO/refs/heads/main/github-metrics-languages.svg?v=3" alt="Most used languages"/>
+  <img src="https://raw.githubusercontent.com/mallu-musa/mallu-musa/refs/heads/main/github-metrics-languages.svg?v=3" alt="Most used languages"/>
   <br><br>
   <img src="https://streak-stats.demolab.com/?user=mntgxo&hide_border=true&theme=dark" alt="GitHub streak"/>
 </p>
@@ -50,7 +50,7 @@ I build **Telegram bots, automation tools, and backend systems**.
 # 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mntgxo&theme=github-dark" alt="Activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mallu-musa&theme=github-dark" alt="Activity graph"/>
 </p>
 
 ---
@@ -58,8 +58,8 @@ I build **Telegram bots, automation tools, and backend systems**.
 # 🛠 Tech & Live Metrics
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/mntgxo?style=for-the-badge" alt="Followers"/>
-  <img src="https://komarev.com/ghpvc/?username=mntgxo&style=for-the-badge" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/mallu-musa?style=for-the-badge" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=mallu-musa&style=for-the-badge" alt="Profile views"/>
 </p>
 
 ---
@@ -67,7 +67,7 @@ I build **Telegram bots, automation tools, and backend systems**.
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mntgxo/mntgxo/output/github-contribution-grid-snake.svg" alt="Contribution snake"/>
+  <img src="https://raw.githubusercontent.com/mallu-musa/mallu-musa/output/github-contribution-grid-snake.svg" alt="Contribution snake"/>
 </p>
 
 ---
